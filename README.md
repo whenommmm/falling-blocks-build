@@ -5,7 +5,7 @@
 
 A minimalist 2D survival game built in Unity to explore and understand core game development mechanics such as movement, spawning systems, collision handling, and difficulty scaling.
 
-🔗 Play Here: https://github.com/whenommmm/falling-blocks-build.git
+🔗 Play Here: https://whenommmm.github.io/falling-blocks-build/
 
 ⸻
 
